@@ -10,6 +10,6 @@ $("#addTodo").click(function () {
       $(this).parent().css("color", "#ccc");
     } else {
       $(this).parent().css("text-decoration", "none");
-      $(this).parent().css("color", "#000");
+      $(this).parent().css("color", "#001");
     }
   });
